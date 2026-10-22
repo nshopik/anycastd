@@ -65,7 +65,7 @@ announcer:
       remote_address: 10.0.0.253
       remote_asn: 65000
       enable_multihop: true
-      multihope_ttl: 3
+      multihop_ttl: 3
 services:
   - name: http
     check_interval: 10s
